@@ -1,6 +1,6 @@
 # Introduction to Antennas
 
-<img src ="assets/00.jpg">
+<img src ="Assets/00.jpg">
 Photo by <a href="https://unsplash.com/@artenico?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gio L</a> on <a href="https://unsplash.com/photos/multiple-tv-antennas-and-satellite-dishes-on-a-weathered-rooftop-H9RkvByHP8U?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ---
